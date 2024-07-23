@@ -18,7 +18,7 @@ Here are some of the technologies and tools I work with:
 
 ## Contact
 
-- **Email**: contato@joabsonm.com
+- **Email**: contato@joabson.com
 - **LinkedIn**: [Joabson's LinkedIn](https://www.linkedin.com/in/joabson/)
 
 ## Website
