@@ -1,77 +1,53 @@
+# Bem-vindo ao meu perfil no GitHub!
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
-&nbsp;&nbsp;&nbsp;
+![Header](https://example.com/your-header-image.png)
 
+## Sobre mim
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
+Olá! Eu sou [Seu Nome], um desenvolvedor apaixonado por tecnologia e programação. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá (UNESA) e tenho um background técnico em programação pelo Centro Estadual de Educação Tecnológica Paula Souza (ETEC - São Paulo). 
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+## Tecnologias e Ferramentas
 
+Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
+- **Linguagens de Programação**: JavaScript, Python, Java
+- **Frameworks e Bibliotecas**: Node.js, Express.js, React, Sequelize
+- **Banco de Dados**: MySQL, PostgreSQL, MongoDB
+- **Ferramentas de Desenvolvimento**: Git, Docker, Visual Studio Code
+- **Outros**: HTML, CSS, RESTful APIs
 
-## My Skills
+## Projetos
 
-#### Main Stack:
+### [Projeto 1](https://github.com/username/projeto1)
+Uma breve descrição do seu projeto. Por exemplo, "Uma aplicação web para gerenciamento de tarefas construída com Node.js e React."
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Cypress](https://img.shields.io/badge/cypress-239120?style=for-the-badge&logo=cypress)&nbsp;
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+### [Projeto 2](https://github.com/username/projeto2)
+Uma breve descrição do seu projeto. Por exemplo, "Uma API RESTful para um sistema de e-commerce desenvolvida com Express.js e MongoDB."
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+### [Projeto 3](https://github.com/username/projeto3)
+Uma breve descrição do seu projeto. Por exemplo, "Um chatbot inteligente usando Python e a API do GPT-4."
 
-#### Secondary Stack:
+## Contribuições
 
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+Eu adoro contribuir para projetos de código aberto e aprender coisas novas. Confira algumas das minhas contribuições:
 
-#### Studying in this moment:
+- [Repositório X](https://github.com/username/repo-x): Adicionei uma funcionalidade Y para melhorar Z.
+- [Repositório A](https://github.com/username/repo-a): Corrigi bugs e melhorei a documentação.
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+## Contato
 
-#### Databases:
+- **Email**: seu.email@example.com
+- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- **Twitter**: [Seu Twitter](https://twitter.com/seu-perfil)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+## Blog
 
-#### Workstation Tools:
+Eu também gosto de escrever sobre tecnologia e desenvolvimento. Confira meus artigos mais recentes:
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+- [Título do Artigo 1](https://medium.com/@username/título-do-artigo-1)
+- [Título do Artigo 2](https://medium.com/@username/título-do-artigo-2)
 
-&nbsp;
-&nbsp;
+Obrigado por visitar meu perfil no GitHub! Se você quiser colaborar em algum projeto ou apenas bater um papo sobre tecnologia, sinta-se à vontade para entrar em contato.
 
-## Contacts:
+![Footer](https://example.com/your-footer-image.png)
 
-<div> 
-<a href="https://www.instagram.com/rafa.alexandrino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:contato.rafaelalexandrino@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rafael-ladeia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://medium.com/@rafaelalexandrino" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
- 
-
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
