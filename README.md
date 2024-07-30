@@ -25,7 +25,7 @@ Here are some of the technologies and tools I work with:
 
 - [joabson.com](https://joabson.com)
 
-## Study platform 😍
+## Preferred study platform 😍  [Rocketseat](https://app.rocketseat.com.br/)
 
 <a href="https://app.rocketseat.com.br/me/jobsvascon"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=jobsvascon&type=card" width="280" alt="Joabson Vasconcelos's Rocket ID"/></a>
 
