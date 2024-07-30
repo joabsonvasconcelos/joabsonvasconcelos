@@ -25,6 +25,8 @@ Here are some of the technologies and tools I work with:
 
 - [joabson.com](https://joabson.com)
 
-Thank you for visiting my GitHub profile! If you would like to collaborate on a project or just chat about technology, feel free to get in touch.
+## Study platform 😍
 
 <a href="https://app.rocketseat.com.br/me/jobsvascon"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=jobsvascon&type=card" width="280" alt="Joabson Vasconcelos's Rocket ID"/></a>
+
+Thank you for visiting my GitHub profile! If you would like to collaborate on a project or just chat about technology, feel free to get in touch.
