@@ -10,8 +10,8 @@ Currently, I am committed to my academic development as a student of the Analysi
 
 Here are some of the technologies and tools I work with:
 
-- **Programming Languages**: JavaScript, Python, Java
-- **Frameworks and Libraries**: Node.js, Express.js, React, Sequelize
+- **Programming Languages**: JavaScript
+- **Frameworks and Libraries**: Node.js, Express.js, React
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Development Tools**: Git, Docker, Visual Studio Code
 - **Others**: HTML, CSS, RESTful APIs
